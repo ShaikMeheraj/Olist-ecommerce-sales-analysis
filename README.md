@@ -25,17 +25,16 @@ using SQL, Excel, Power BI and Tableau.
 - Studied customer review patterns
 - Built interactive dashboards for business insights
 
-## Files Included
-- SQL Queries
-- Excel Analysis
-- Power BI Dashboard
-- Tableau Dashboard
-
 ## Dashboard Screenshots
-(Add screenshots here)
+# Power BI Dashboard
+<img width="1258" height="706" alt="Power BI_dashboard" src="https://github.com/user-attachments/assets/22028daf-b3f0-4cbd-9ac8-9480f6c6779d" />
 
-## Dataset
-Olist Brazilian E-Commerce Public Dataset
+# Tableau
+ Dashboard
+<img width="1659" height="797" alt="Tableau_dashboard" src="https://github.com/user-attachments/assets/8b2a36f6-89eb-4655-b388-7ca34cbf1784" />
+
+# Excel Dashboard
+<img width="1795" height="628" alt="Excel_dashboard" src="https://github.com/user-attachments/assets/d9076d6e-a432-4723-a1fa-07e4476b95b0" />
 
 ## Project Outcome
 Generated actionable business insights through data analysis and visualization.
