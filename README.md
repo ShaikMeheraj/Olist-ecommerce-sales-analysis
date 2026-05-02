@@ -27,9 +27,12 @@ using SQL, Excel, Power BI and Tableau.
 
 ## Dashboard Screenshots
 ### Power BI Dashboard
+[view project](https://drive.google.com/file/d/1pxD45GDuLHzkhv-J5iICO-xvTuXULuOh/view?usp=sharing)
 <img width="1258" height="706" alt="Power BI_dashboard" src="https://github.com/user-attachments/assets/22028daf-b3f0-4cbd-9ac8-9480f6c6779d" />
 
 ### Tableau Dashboard
+[view project](https://drive.google.com/file/d/14H197tygcUzyJthRURHnyjjxSHph3bPd/view?usp=sharing
+)
 <img width="1659" height="797" alt="Tableau_dashboard" src="https://github.com/user-attachments/assets/8b2a36f6-89eb-4655-b388-7ca34cbf1784" />
 
 ### Excel Dashboard
